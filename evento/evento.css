@@ -64,24 +64,24 @@ body {
 }
   .container {
     display: table-cell;
-    text-align: justify;
+    text-align: center;
     vertical-align: middle;
   }
   
   .neon {
     font-family: "roboto";
     color: #FB4264;
-    font-size: 5vw;
-    line-height: 5vw;
-    text-shadow: 0 0 3vw #F40A35;
+    font-size: 3vw;
+    line-height: 3vw;
+    text-shadow: 0 0 1vw #F40A35;
   }
   
   .flux {
     font-family: "roboto";
-    color: #426DFB;
-    font-size: 5vw;
-    line-height: 5vw;
-    text-shadow: 0 0 3vw #2356FF;
+    color: #587df3;
+    font-size: 3vw;
+    line-height: 3vw;
+    text-shadow: 0 0 1vw #071853;
   }
   
   .neon {
